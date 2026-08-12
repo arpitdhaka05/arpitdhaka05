@@ -119,7 +119,7 @@
 ## 🛠️ Tech Stack
 
 ```python
-languages    = ["Python", "SQL", "LaTeX", "JavaScript"]
+languages    = ["Python", "LaTeX", "C", "Cpp"]
 quant        = ["PyTorch", "numpy", "scipy", "statsmodels", "arch", "hmmlearn", "yfinance"]
 geospatial   = ["WhiteboxTools", "geopandas", "shapely", "folium", "GDAL"]
 genai        = ["HuggingFace Transformers", "Qwen2-VL", "SigLIP", "diffusers", "bitsandbytes"]
