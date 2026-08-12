@@ -129,20 +129,10 @@ tools        = ["Git", "Kaggle", "Google Colab", "LaTeX", "Jupyter"]
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arpitdhaka05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitdhaka05&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-**NIT Goa · IIT Mandi Collaboration**  
-*Building research that matters at the intersection of markets, AI, and geospatial science*
+**NIT Goa**  
+*Building research that matters at the intersection of Finance and AI*
 
 </div>
