@@ -76,7 +76,7 @@
 </td>
 <td width="50%">
 
-###  [Amazon ML Challenge 2024](https://github.com/arpitdhaka05/Amazon-ML-Challenge)
+###  [Amazon ML Challenge 2025](https://github.com/arpitdhaka05/Amazon-ML-Challenge)
 **Multimodal Price Prediction via VLM**
 
 - Qwen2-VL-7B-Instruct (4-bit quantized on T4 GPU)
