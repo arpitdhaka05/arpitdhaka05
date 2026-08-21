@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 > I build at the intersection of **quantitative finance**, **generative AI**, and **geospatial ML** — with a focus on research that is reproducible, mathematically rigorous, and practically deployable.
 
