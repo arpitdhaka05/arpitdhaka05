@@ -22,20 +22,20 @@
 
 > I build at the intersection of **quantitative finance**, **generative AI**, and **geospatial ML** — with a focus on research that is reproducible, mathematically rigorous, and practically deployable.
 
-- 🔬 **Research:** Regime-Conditioned Diffusion Models for Indian equity markets — co-supervised by **Prof. Rishikesh Yadav, IIT Mandi**
-- 📊 **Quant:** Stochastic process simulation (GBM, Heston, GARCH), market microstructure, stylized facts validation
-- 🛰️ **Geospatial:** LiDAR-based automated drainage delineation for SVAMITVA/rural surveying
-- 🤖 **GenAI:** Vision-Language Models (Qwen2-VL), multimodal embeddings (SigLIP), diffusion architectures
+-  **Research:** Regime-Conditioned Diffusion Models for Indian equity markets — co-supervised by **Prof. Rishikesh Yadav, IIT Mandi**
+-  **Quant:** Stochastic process simulation (GBM, Heston, GARCH), market microstructure, stylized facts validation
+-  **Geospatial:** LiDAR-based automated drainage delineation for SVAMITVA/rural surveying
+-  **GenAI:** Vision-Language Models (Qwen2-VL), multimodal embeddings (SigLIP), diffusion architectures
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧬 [NIFTY-DDPM](https://github.com/arpitdhaka05/Nifty-Regime-DDPM)
+###  [NIFTY-DDPM](https://github.com/arpitdhaka05/Nifty-Regime-DDPM)
 **Regime-Conditioned Diffusion Model for NIFTY50**
 
 - India VIX × FiLM × 1D U-Net
@@ -48,7 +48,7 @@
 </td>
 <td width="50%">
 
-### 📈 [Market Sentiment Alpha](https://github.com/arpitdhaka05/Market-sentiment-alpha-analysis)
+###  [Market Sentiment Alpha](https://github.com/arpitdhaka05/Market-sentiment-alpha-analysis)
 **Fear/Greed Regime-Based Trading Strategy**
 
 - Crypto Fear & Greed Index × Bybit microstructure
@@ -63,7 +63,7 @@
 <tr>
 <td width="50%">
 
-### 🎲 [Monte Carlo Finance Simulator](https://github.com/arpitdhaka05/Monte-Carlo-Finance-Simulator)
+###  [Monte Carlo Finance Simulator](https://github.com/arpitdhaka05/Monte-Carlo-Finance-Simulator)
 **Multi-model Path Simulation & Risk Engine**
 
 - GBM, Heston, GARCH, Jump-Diffusion, Historical Bootstrap
@@ -76,7 +76,7 @@
 </td>
 <td width="50%">
 
-### 🛒 [Amazon ML Challenge 2024](https://github.com/arpitdhaka05/Amazon-ML-Challenge)
+###  [Amazon ML Challenge 2024](https://github.com/arpitdhaka05/Amazon-ML-Challenge)
 **Multimodal Price Prediction via VLM**
 
 - Qwen2-VL-7B-Instruct (4-bit quantized on T4 GPU)
@@ -90,7 +90,7 @@
 <tr>
 <td width="50%">
 
-### 🛰️ [HydroSpatial-SVAMITVA](https://github.com/arpitdhaka05/HydroSpatial-SVAMITVA)
+###  [HydroSpatial-SVAMITVA](https://github.com/arpitdhaka05/HydroSpatial-SVAMITVA)
 **Automated Drainage Delineation from LiDAR**
 
 - WhiteboxTools · GeoAI · LiDAR point clouds
@@ -102,7 +102,7 @@
 </td>
 <td width="50%">
 
-### 🏔️ [National GeoAI Hackathon — IIT Bombay](https://github.com/arpitdhaka05/National-Geo-AI-Hackathon-IIT-Bombay)
+###  [National GeoAI Hackathon — IIT Bombay](https://github.com/arpitdhaka05/National-Geo-AI-Hackathon-IIT-Bombay)
 **Hydrological Feature Extraction at Scale**
 
 - Same problem domain, different dataset
@@ -116,7 +116,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```python
 languages    = ["Python", "LaTeX", "C", "Cpp"]
