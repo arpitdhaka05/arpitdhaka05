@@ -5,7 +5,7 @@
 <br/>
 
 # Arpit Dhaka
-### B.Tech Electronics & Communication · NIT Goa
+### B.Tech Electrical & Electronics · NIT Goa
 #### *Quantitative Finance · Generative AI · Geospatial ML*
 
 <br/>
